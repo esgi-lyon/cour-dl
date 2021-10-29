@@ -2,7 +2,7 @@ jupyter
 jupyterthemes
 matplotlib
 numexpr
-numpy
+numpy<=1.14.5,>=1.13.3
 pandas
 Pillow
 protobuf
@@ -10,5 +10,5 @@ psutil
 scikit-learn
 scipy
 sympy
-tensorflow>=1.6.0
+tensorflow
 # opencv-python
