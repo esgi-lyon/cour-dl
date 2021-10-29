@@ -4,8 +4,10 @@
 
 - [install homebrew](https://brew.sh/)
 
-- `conda env create -f requirements.txt -n cour-dl`
+- `brew install miniconda3`
+
+- `conda env create -n cour-dl`
 
 - `conda activate cour-dl`
 
--
+- `pip install -r requirements.txt`
