@@ -1,0 +1,7 @@
+manala:
+  recipe: dev.python
+  repository: /Users/loic/Ops/manala-recipes
+
+
+gitignore: ""
+
